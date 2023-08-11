@@ -39,4 +39,5 @@ int	main(void)
 	signal(SIGUSR2, sig_handler);
 	while (1)
 		pause();
+	return (0);
 }

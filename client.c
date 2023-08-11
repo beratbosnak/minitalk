@@ -49,4 +49,5 @@ int	main(int ac, char **av)
 	}
 	else
 		ft_putstr("Invalid arguments !\n");
+	return (0);
 }

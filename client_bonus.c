@@ -41,7 +41,6 @@ void	sig_handler(int signum, siginfo_t *siginfo, void *unused)
 
 	(void)unused;
 	(void)siginfo;
-	(void)signum;
 	if (signum == SIGUSR2)
 	{
 		if (!received)
@@ -70,4 +69,5 @@ int	main(int ac, char **av)
 	}
 	else
 		ft_putstr("Invalid arguments\n");
+	return (0);
 }

@@ -45,4 +45,5 @@ int	main(void)
 		ft_putstr("Sigaction error\n");
 	while (1)
 		pause();
+	return (0);
 }
