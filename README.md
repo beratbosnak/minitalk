@@ -6,13 +6,13 @@
 
 ## 📋 Table of Contents
 
-1.  [About The Project](#about-the-project)
-2.  [Key Features](#key-features)
-3.  [How It Works](#how-it-works)
-4.  [Getting Started](#getting-started)
-5.  [Usage Demonstration](#usage-demonstration)
-6.  [License](#license)
-7.  [Contact](#contact)
+1.  [About The Project](#-about-the-project)
+2.  [Key Features](#-key-features)
+3.  [How It Works](#-how-it-works)
+4.  [Getting Started](#-getting-started)
+5.  [Usage Demonstration](#-usage-demonstration)
+6.  [License](#-license)
+7.  [Contact](#-contact)
 
 ## 🚀 About The Project
 
