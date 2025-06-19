@@ -74,7 +74,7 @@ The following GIFs demonstrate the program in action. You will need two separate
 
 This shows the basic one-way communication. The client sends a message, and the server receives and displays it.
 
-<video src="https://github.com/user-attachments/assets/eed063bc-b0eb-49dc-8049-4e91afd436ac?raw=true" autoplay loop muted playsinline style="max-width:100%; height:auto;"></video>
+<video src="./assets/minitalk-base-version.mov?raw=true" autoplay loop muted playsinline style="max-width:100%; height:auto;"></video>
 
 ### Full-Featured Version
 
