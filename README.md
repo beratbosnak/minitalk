@@ -74,13 +74,13 @@ The following GIFs demonstrate the program in action. You will need two separate
 
 This shows the basic one-way communication. The client sends a message, and the server receives and displays it.
 
-<video src="./assets/minitalk-base-version.mov?raw=true" autoplay loop muted playsinline style="max-width:100%; height:auto;"></video>
+<video src="https://github.com/user-attachments/assets/19ec118a-88b2-49a4-a4e8-23427ed0c8f6"></video>
 
 ### Full-Featured Version
 
 This demonstrates the enhanced two-way communication. After the server receives and displays the message, it sends an acknowledgement signal back to the client. This version also handles multi-byte Unicode characters correctly.
 
-<video src="https://github.com/user-attachments/assets/eeaa8982-c6d9-45e4-ab31-1cd5cd81ef46" controls loop muted style="max-width:100%;"></video>
+<video src="https://github.com/user-attachments/assets/eeaa8982-c6d9-45e4-ab31-1cd5cd81ef46"></video>
 
 ## 📄 License
 
