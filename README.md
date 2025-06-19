@@ -38,7 +38,7 @@ This project showcases a deep understanding of low-level process communication, 
 6.  Once the null-terminating character is received, the server prints the complete message.
 7.  Finally, upon printing the message, the server sends a confirmation signal back to the client, completing the communication cycle.
 
-## 🛠️ Getting Started
+## 🛠 Getting Started
 
 ### Prerequisites
 
@@ -66,7 +66,7 @@ You need a C compiler (like `gcc` or `clang`) and `make` installed on your syste
     *   `make re`
         > Re-compiles the mandatory part from scratch by running `fclean` and `all` sequentially.
 
-## 🖥️ Usage Demonstration
+## 🖥 Usage Demonstration
 
 The following GIFs demonstrate the program in action. You will need two separate terminal windows for the server and the client.
 
@@ -74,13 +74,13 @@ The following GIFs demonstrate the program in action. You will need two separate
 
 This shows the basic one-way communication. The client sends a message, and the server receives and displays it.
 
-<video src="https://github.com/user-attachments/assets/19ec118a-88b2-49a4-a4e8-23427ed0c8f6"></video>
+![Minitalk Base Version Demo](./assets/minitalk-base-version.apng)
 
 ### Full-Featured Version
 
 This demonstrates the enhanced two-way communication. After the server receives and displays the message, it sends an acknowledgement signal back to the client. This version also handles multi-byte Unicode characters correctly.
 
-<video src="https://github.com/user-attachments/assets/eeaa8982-c6d9-45e4-ab31-1cd5cd81ef46"></video>
+![Minitalk Full-Featured Version Demo](./assets/minitalk-full-version.apng)
 
 ## 📄 License
 
